@@ -1,0 +1,114 @@
+.bg {
+  background-color: black;
+}
+
+.header {
+  /*background-color: #191919;*/
+  padding-bottom: 2vmax;
+  padding-top: 6vmax;
+}
+
+.navbar li {
+  display: inline;
+  padding-top: 1vmax;
+  padding-right: 2.5vmax;
+  font-family: Source Code Pro;
+  font-size: 140%;
+}
+
+.navbar a {
+  color: white;
+}
+
+#welcome {
+  color: white;
+  font-family: Source Code Pro;
+  font-size: 240%;
+  margin-top: 0%;
+}
+
+.intro {
+  margin-top: 4vmax;
+  margin-bottom: 6vmax;
+  overflow: auto;
+}
+
+.footer {
+  color: white;
+  padding-top: 2vmax;
+  padding-bottom: 2vmax;
+  font-family: Source Code Pro;
+}
+
+#text1 {
+  color: white;
+  font-family: Source Code Pro;
+  padding-left: 2vmax;
+  font-size: 150%;
+}
+
+#text1 span {
+  color: green;
+}
+
+.intro col-xs-4 {
+  display: inline;
+}
+
+
+#text2 {
+  font-family: Source Code Pro;
+  font-size: 150%;
+  color: green;
+}
+
+.skill a:hover {
+  color: green;
+} 
+
+.skill a {
+  color: white;
+}
+
+.skill ul {
+  list-style: none;
+}
+
+.work {
+  margin-top: 5vmax;
+}
+
+#text3, #text4 {
+  font-family: Source Code Pro;
+  font-size: 150%;
+  color: green;
+}
+
+#list-text {
+    padding-bottom: 10vmax;
+}
+
+.work span {
+  color: white;
+}
+
+.work ul{
+    color: white;
+    list-style: none;
+    font-family: monospace;
+    font-size: 130%;
+
+}
+
+.break {
+  margin-top: 2vmax;
+}
+
+#text4 span {
+  color: white;
+}
+
+#text4 {
+  display: inline-block;
+  padding-top: 2vmax;
+}
